@@ -1,0 +1,5 @@
+package com.FirstProject.demo.controller;
+
+public class HelloWorldApplication {
+
+}
